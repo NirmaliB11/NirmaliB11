@@ -110,3 +110,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"></div>
 <br />
+
+
+![snake gif](https://github.com/NirmaliB11/NirmaliB11/blob/output/github-snake-dark.svg)
